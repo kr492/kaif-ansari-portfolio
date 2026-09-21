@@ -17,7 +17,7 @@ kaif-ansari-portfolio/
 ├── assets/
 │   ├── profile.jpg
 │   └── resume/
-│       └── Kaif-Ansari-Resume.pdf
+│       └── Md-Kaif-Ansari-Resume-v1.1.pdf
 ├── .nojekyll
 └── README.md
 ```
